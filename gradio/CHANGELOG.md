@@ -1,5 +1,11 @@
 # gradio
 
+## 4.31.5
+
+### Fixes
+
+- [#8334](https://github.com/gradio-app/gradio/pull/8334) [`0236b1a`](https://github.com/gradio-app/gradio/commit/0236b1ab12149ddd11b03e1382ceb09d19ac0d48) - fix: prevent triggering gr.File.select on delete.  Thanks @gtm-nayan!
+
 ## 4.31.4
 
 ### Features

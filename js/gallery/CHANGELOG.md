@@ -1,5 +1,11 @@
 # @gradio/gallery
 
+## 0.10.5
+
+### Dependency updates
+
+- @gradio/file@0.7.5
+
 ## 0.10.4
 
 ### Dependency updates

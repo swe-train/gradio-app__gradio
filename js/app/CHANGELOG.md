@@ -1,5 +1,13 @@
 # @gradio/app
 
+## 1.35.5
+
+### Dependency updates
+
+- @gradio/file@0.7.5
+- @gradio/fileexplorer@0.4.6
+- @gradio/gallery@0.10.5
+
 ## 1.35.4
 
 ### Fixes
